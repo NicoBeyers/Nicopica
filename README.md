@@ -12,5 +12,3 @@
 
 ### Contact
 * **Email:** beyersnicolas@gmail.com
----
-*"Why work hard when your code can work smart?"*
